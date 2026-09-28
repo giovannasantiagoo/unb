@@ -1,8 +1,0 @@
-modelo,ataques conhecidos,ataques novos,DoS,Probe,R2L,U2R
-Regra booleana (IA),0.6289,0.2133,0.6693,0.4164,0.1743,0.16
-Naive Bayes,0.2979,0.1397,0.3383,0.2887,0.0029,0.0
-Regressão Logística,0.7145,0.3941,0.8184,0.7559,0.0065,0.08
-Árvore de Decisão,0.8149,0.5563,0.8669,0.8286,0.3228,0.64
-Random Forest,0.7705,0.2219,0.7694,0.7898,0.0585,0.095
-Perceptron,0.7444,0.4069,0.8643,0.7385,0.0098,0.13
-Rede Neural Profunda (MLP),0.8285,0.3872,0.8494,0.7906,0.248,0.225

@@ -1,0 +1,8 @@
+modelo,nível,acurácia,precisão,recall,f1,auc,f1 validação,queda de F1 (val → teste),"meta P2 (recall e precisão ≥ 0,90)"
+Regra booleana (IA),IA,0.7139,0.9806,0.5074,0.6688,,0.8529,0.1842,não atingida
+Naive Bayes,ML,0.5711,0.9797,0.2517,0.4005,0.6522,0.8222,0.4217,não atingida
+Regressão Logística,ML,0.751,0.9142,0.6209,0.7395,0.7859,0.9714,0.2319,não atingida
+Árvore de Decisão,ML,0.8175,0.9249,0.7393,0.8218,0.83,0.9983,0.1765,não atingida
+Random Forest,ML,0.7665,0.9676,0.6101,0.7484,0.9567,0.9988,0.2504,não atingida
+Perceptron,DL,0.7568,0.8985,0.6458,0.7515,0.7221,0.9639,0.2125,não atingida
+Rede Neural Profunda (MLP),DL,0.8151,0.9663,0.6995,0.8116,0.9146,0.9978,0.1863,não atingida

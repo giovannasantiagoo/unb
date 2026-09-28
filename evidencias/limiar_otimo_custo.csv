@@ -1,7 +1,0 @@
-modelo,limiar,valor do limiar,recall,precisão,custo (avaliação),redução de custo
-Regressão Logística,"0,5 (padrão)",0.5,0.6181,0.9151,24868,0.0
-Regressão Logística,ótimo,0.0,0.9358,0.5538,8957,0.6398
-Random Forest,"0,5 (padrão)",0.5,0.608,0.967,25283,0.0
-Random Forest,ótimo,0.01,0.9799,0.8916,2054,0.9188
-Rede Neural Profunda (MLP),"0,5 (padrão)",0.5,0.7006,0.9667,19365,0.0
-Rede Neural Profunda (MLP),ótimo,0.0,0.8964,0.8666,7535,0.6109
